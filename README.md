@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirdosh Kushwaha (Rishabh)
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Data Structures and algorithms in C++
+- 🌱 I’m currently learning Data Structures and algorithms using C++
 - 📫 How to reach me - nirdoshkushwaha75@gmail.com
 - Thankyou
 
