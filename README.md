@@ -13,14 +13,11 @@ Hello! I'm Nirdosh Kushwaha, a passionate developer with a keen interest in back
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![Python3](https://img.icons8.com/color/48/000000/python.png) **Python3**
 - ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) **NodeJS**
 - ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) **ExpressJS**
-- ![Data Structures](https://img.icons8.com/color/48/000000/data-structure.png) **Data Structures and Algorithms**
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
-- ![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png) **LeetCode**
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL**
 
 ## Projects
