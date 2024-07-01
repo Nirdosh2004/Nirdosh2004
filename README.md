@@ -1,4 +1,3 @@
-
 # Nirdosh Kushwaha
 
 ## About Me
@@ -7,18 +6,23 @@ Hello! I'm Nirdosh Kushwaha, a passionate developer with a keen interest in back
 
 ## Skills and Technologies
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) **NodeJS**
-- ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) **ExpressJS**
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
-- ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL**
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python3" title="Python3"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="ExpressJS" title="ExpressJS"/>
+  <img src="https://img.icons8.com/color/48/000000/data-structure.png" alt="Data Structures and Algorithms" title="Data Structures and Algorithms"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" title="LeetCode"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/>
+</div>
 
 ## Projects
 
@@ -29,6 +33,4 @@ I have worked on a variety of projects across different domains, including web d
 📧 **Email**: nirdoshkushwaha75@gmail.com
 
 Feel free to reach out to me for collaboration, questions, or just to say hi!
-
----
 
