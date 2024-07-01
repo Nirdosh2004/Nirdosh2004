@@ -13,12 +13,16 @@ Hello! I'm Nirdosh Kushwaha, a passionate developer with a keen interest in back
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="ExpressJS" title="ExpressJS"/>
+ <img src="https://img.icons8.com/color/48/000000/express.png" alt="ExpressJS" title="ExpressJS"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode"/>
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" title="LeetCode"/>
 </div>
 
 ## Projects
